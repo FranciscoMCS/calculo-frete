@@ -44,9 +44,7 @@ public class FreteApplication {
 	}
 
 	public static void main(String[] args) {
-		obterCoordenadasPorCEP("04851-280");
 		SpringApplication.run(FreteApplication.class, args);
-		obterCoordenadasPorCEP("04851-280");
 	}
 
 }
